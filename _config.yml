@@ -1,0 +1,12 @@
+# Site settings
+title: Technology Enthusiast and Programmer by Choice
+email: sanketmaru@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://sanketmaru.github.io" # the base hostname & protocol for your site
+twitter_username: sanketmaru
+github_username:  sanketmaru
+
+# Build settings
+markdown: kramdown
