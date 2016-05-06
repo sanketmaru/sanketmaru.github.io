@@ -8,4 +8,3 @@ categories: jekyll update
 {% highlight javascript %}
 	var a = "sanket";
 {% endhighlight %}
-
