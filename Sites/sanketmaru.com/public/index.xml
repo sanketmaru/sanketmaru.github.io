@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sanket Maru</title>
+    <link>https://sanketmaru.github.io/blog/index.xml</link>
+    <description>Recent content on Sanket Maru</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 08 Jan 2017 23:43:07 +0530</lastBuildDate>
+    <atom:link href="https://sanketmaru.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>https://sanketmaru.github.io/blog/about/</link>
+      <pubDate>Sun, 08 Jan 2017 23:43:07 +0530</pubDate>
+      
+      <guid>https://sanketmaru.github.io/blog/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>good to great</title>
+      <link>https://sanketmaru.github.io/blog/post/good-to-great/</link>
+      <pubDate>Sun, 08 Jan 2017 23:23:39 +0530</pubDate>
+      
+      <guid>https://sanketmaru.github.io/blog/post/good-to-great/</guid>
+      <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became &lt;great class=&#34;&#34;&gt;&lt;/great&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
