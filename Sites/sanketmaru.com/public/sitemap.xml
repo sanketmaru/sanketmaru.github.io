@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://sanketmaru.github.io/blog/about/</loc>
+    <loc>https://sanketmaru.github.io/about/</loc>
     <lastmod>2017-01-08T23:43:07+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://sanketmaru.github.io/blog/post/good-to-great/</loc>
+    <loc>https://sanketmaru.github.io/post/good-to-great/</loc>
     <lastmod>2017-01-08T23:23:39+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://sanketmaru.github.io/blog/post/</loc>
+    <loc>https://sanketmaru.github.io/post/</loc>
     <lastmod>2017-01-08T23:23:39+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sanketmaru.github.io/blog/</loc>
+    <loc>https://sanketmaru.github.io/</loc>
     <lastmod>2017-01-08T23:43:07+05:30</lastmod>
     <priority>0</priority>
   </url>
