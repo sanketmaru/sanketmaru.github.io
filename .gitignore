@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 # Logs
 logs
 *.log
 npm-debug.log*
-=======
 #### joe made this: http://goel.io/joe
 
 #####=== Node ===#####
@@ -11,7 +9,6 @@ npm-debug.log*
 # Logs
 logs
 *.log
->>>>>>> master
 
 # Runtime data
 pids
@@ -24,12 +21,8 @@ lib-cov
 # Coverage directory used by tools like istanbul
 coverage
 
-<<<<<<< HEAD
 # nyc test coverage
 .nyc_output
-
-=======
->>>>>>> master
 # Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
 
@@ -38,7 +31,6 @@ coverage
 
 # Compiled binary addons (http://nodejs.org/api/addons.html)
 build/Release
-<<<<<<< HEAD
 bin/
 
 # Dependency directories
@@ -50,7 +42,6 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
-=======
 
 # Dependency directory
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git-
@@ -59,4 +50,3 @@ node_modules
 # Debug log from npm
 npm-debug.log
 
->>>>>>> master
