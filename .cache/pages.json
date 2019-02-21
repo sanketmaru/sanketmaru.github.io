@@ -1,0 +1,57 @@
+[
+    {
+        "componentChunkName": "component---src-templates-index-template-js",
+        "jsonName": "index",
+        "path": "/"
+    },
+    {
+        "componentChunkName": "component---src-templates-not-found-template-js",
+        "jsonName": "404-c02",
+        "path": "/404"
+    },
+    {
+        "componentChunkName": "component---src-templates-categories-list-template-js",
+        "jsonName": "categories-960",
+        "path": "/categories"
+    },
+    {
+        "componentChunkName": "component---src-templates-category-template-js",
+        "jsonName": "category-angular-e5f",
+        "path": "/category/angular"
+    },
+    {
+        "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
+        "jsonName": "offline-plugin-app-shell-fallback-a30",
+        "path": "/offline-plugin-app-shell-fallback/"
+    },
+    {
+        "componentChunkName": "component---src-templates-page-template-js",
+        "jsonName": "pages-about-fd2",
+        "path": "/pages/about/"
+    },
+    {
+        "componentChunkName": "component---src-templates-page-template-js",
+        "jsonName": "pages-contacts-2bb",
+        "path": "/pages/contacts/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "jsonName": "posts-ng-template-use-case-fb7",
+        "path": "/posts/ng-template-use-case/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-template-js",
+        "jsonName": "tag-angular-704",
+        "path": "/tag/angular"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-template-js",
+        "jsonName": "tag-web-development-c12",
+        "path": "/tag/web-development"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-list-template-js",
+        "jsonName": "tags-cd4",
+        "path": "/tags"
+    }
+]
