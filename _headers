@@ -8,36 +8,36 @@
   Cache-Control: public, max-age=31536000, immutable
 /sw.js
   Cache-Control: no-cache
-/sanketmaru.github.io/offline-plugin-app-shell-fallback/
-  Link: </sanketmaru.github.io/webpack-runtime-033132f0e165867a9c00.js>; rel=preload; as=script
-  Link: </sanketmaru.github.io/component---node-modules-gatsby-plugin-offline-app-shell-js-31e90fc322a673131e5f.js>; rel=preload; as=script
-/sanketmaru.github.io/404
-  Link: </sanketmaru.github.io/webpack-runtime-033132f0e165867a9c00.js>; rel=preload; as=script
-  Link: </sanketmaru.github.io/0-bea5bed08190b9d65869.js>; rel=preload; as=script
-/sanketmaru.github.io/tags
-  Link: </sanketmaru.github.io/webpack-runtime-033132f0e165867a9c00.js>; rel=preload; as=script
-  Link: </sanketmaru.github.io/0-bea5bed08190b9d65869.js>; rel=preload; as=script
-/sanketmaru.github.io/categories
-  Link: </sanketmaru.github.io/webpack-runtime-033132f0e165867a9c00.js>; rel=preload; as=script
-  Link: </sanketmaru.github.io/0-bea5bed08190b9d65869.js>; rel=preload; as=script
-/sanketmaru.github.io/pages/about/
-  Link: </sanketmaru.github.io/webpack-runtime-033132f0e165867a9c00.js>; rel=preload; as=script
-  Link: </sanketmaru.github.io/0-bea5bed08190b9d65869.js>; rel=preload; as=script
-/sanketmaru.github.io/pages/contacts/
-  Link: </sanketmaru.github.io/webpack-runtime-033132f0e165867a9c00.js>; rel=preload; as=script
-  Link: </sanketmaru.github.io/0-bea5bed08190b9d65869.js>; rel=preload; as=script
-/sanketmaru.github.io/posts/ng-template-use-case/
-  Link: </sanketmaru.github.io/webpack-runtime-033132f0e165867a9c00.js>; rel=preload; as=script
-  Link: </sanketmaru.github.io/0-bea5bed08190b9d65869.js>; rel=preload; as=script
-/sanketmaru.github.io/tag/angular
-  Link: </sanketmaru.github.io/webpack-runtime-033132f0e165867a9c00.js>; rel=preload; as=script
-  Link: </sanketmaru.github.io/0-bea5bed08190b9d65869.js>; rel=preload; as=script
-/sanketmaru.github.io/tag/web-development
-  Link: </sanketmaru.github.io/webpack-runtime-033132f0e165867a9c00.js>; rel=preload; as=script
-  Link: </sanketmaru.github.io/0-bea5bed08190b9d65869.js>; rel=preload; as=script
-/sanketmaru.github.io/category/angular
-  Link: </sanketmaru.github.io/webpack-runtime-033132f0e165867a9c00.js>; rel=preload; as=script
-  Link: </sanketmaru.github.io/0-bea5bed08190b9d65869.js>; rel=preload; as=script
-/sanketmaru.github.io/
-  Link: </sanketmaru.github.io/webpack-runtime-033132f0e165867a9c00.js>; rel=preload; as=script
-  Link: </sanketmaru.github.io/0-bea5bed08190b9d65869.js>; rel=preload; as=script
+/offline-plugin-app-shell-fallback/
+  Link: </webpack-runtime-0056eaf5b8b6272a71de.js>; rel=preload; as=script
+  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-31e90fc322a673131e5f.js>; rel=preload; as=script
+/404
+  Link: </webpack-runtime-0056eaf5b8b6272a71de.js>; rel=preload; as=script
+  Link: </0-bea5bed08190b9d65869.js>; rel=preload; as=script
+/tags
+  Link: </webpack-runtime-0056eaf5b8b6272a71de.js>; rel=preload; as=script
+  Link: </0-bea5bed08190b9d65869.js>; rel=preload; as=script
+/categories
+  Link: </webpack-runtime-0056eaf5b8b6272a71de.js>; rel=preload; as=script
+  Link: </0-bea5bed08190b9d65869.js>; rel=preload; as=script
+/pages/about/
+  Link: </webpack-runtime-0056eaf5b8b6272a71de.js>; rel=preload; as=script
+  Link: </0-bea5bed08190b9d65869.js>; rel=preload; as=script
+/pages/contacts/
+  Link: </webpack-runtime-0056eaf5b8b6272a71de.js>; rel=preload; as=script
+  Link: </0-bea5bed08190b9d65869.js>; rel=preload; as=script
+/posts/ng-template-use-case/
+  Link: </webpack-runtime-0056eaf5b8b6272a71de.js>; rel=preload; as=script
+  Link: </0-bea5bed08190b9d65869.js>; rel=preload; as=script
+/tag/angular
+  Link: </webpack-runtime-0056eaf5b8b6272a71de.js>; rel=preload; as=script
+  Link: </0-bea5bed08190b9d65869.js>; rel=preload; as=script
+/tag/web-development
+  Link: </webpack-runtime-0056eaf5b8b6272a71de.js>; rel=preload; as=script
+  Link: </0-bea5bed08190b9d65869.js>; rel=preload; as=script
+/category/angular
+  Link: </webpack-runtime-0056eaf5b8b6272a71de.js>; rel=preload; as=script
+  Link: </0-bea5bed08190b9d65869.js>; rel=preload; as=script
+/
+  Link: </webpack-runtime-0056eaf5b8b6272a71de.js>; rel=preload; as=script
+  Link: </0-bea5bed08190b9d65869.js>; rel=preload; as=script
