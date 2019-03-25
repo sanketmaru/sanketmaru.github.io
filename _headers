@@ -9,35 +9,47 @@
 /sw.js
   Cache-Control: no-cache
 /offline-plugin-app-shell-fallback/
-  Link: </webpack-runtime-d2428a6348188ba9beb9.js>; rel=preload; as=script
+  Link: </webpack-runtime-d5b7e550cf7693a32174.js>; rel=preload; as=script
   Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-31e90fc322a673131e5f.js>; rel=preload; as=script
 /404
-  Link: </webpack-runtime-d2428a6348188ba9beb9.js>; rel=preload; as=script
+  Link: </webpack-runtime-d5b7e550cf7693a32174.js>; rel=preload; as=script
   Link: </0-bea5bed08190b9d65869.js>; rel=preload; as=script
 /tags
-  Link: </webpack-runtime-d2428a6348188ba9beb9.js>; rel=preload; as=script
+  Link: </webpack-runtime-d5b7e550cf7693a32174.js>; rel=preload; as=script
   Link: </0-bea5bed08190b9d65869.js>; rel=preload; as=script
 /categories
-  Link: </webpack-runtime-d2428a6348188ba9beb9.js>; rel=preload; as=script
+  Link: </webpack-runtime-d5b7e550cf7693a32174.js>; rel=preload; as=script
   Link: </0-bea5bed08190b9d65869.js>; rel=preload; as=script
 /pages/contacts/
-  Link: </webpack-runtime-d2428a6348188ba9beb9.js>; rel=preload; as=script
-  Link: </0-bea5bed08190b9d65869.js>; rel=preload; as=script
-/pages/about/
-  Link: </webpack-runtime-d2428a6348188ba9beb9.js>; rel=preload; as=script
+  Link: </webpack-runtime-d5b7e550cf7693a32174.js>; rel=preload; as=script
   Link: </0-bea5bed08190b9d65869.js>; rel=preload; as=script
 /posts/ng-template-use-case/
-  Link: </webpack-runtime-d2428a6348188ba9beb9.js>; rel=preload; as=script
+  Link: </webpack-runtime-d5b7e550cf7693a32174.js>; rel=preload; as=script
+  Link: </0-bea5bed08190b9d65869.js>; rel=preload; as=script
+/pages/about/
+  Link: </webpack-runtime-d5b7e550cf7693a32174.js>; rel=preload; as=script
+  Link: </0-bea5bed08190b9d65869.js>; rel=preload; as=script
+/posts/not-knowledge-but-action/
+  Link: </webpack-runtime-d5b7e550cf7693a32174.js>; rel=preload; as=script
   Link: </0-bea5bed08190b9d65869.js>; rel=preload; as=script
 /tag/angular
-  Link: </webpack-runtime-d2428a6348188ba9beb9.js>; rel=preload; as=script
+  Link: </webpack-runtime-d5b7e550cf7693a32174.js>; rel=preload; as=script
+  Link: </0-bea5bed08190b9d65869.js>; rel=preload; as=script
+/tag/javasript
+  Link: </webpack-runtime-d5b7e550cf7693a32174.js>; rel=preload; as=script
+  Link: </0-bea5bed08190b9d65869.js>; rel=preload; as=script
+/tag/open-source
+  Link: </webpack-runtime-d5b7e550cf7693a32174.js>; rel=preload; as=script
   Link: </0-bea5bed08190b9d65869.js>; rel=preload; as=script
 /tag/web-development
-  Link: </webpack-runtime-d2428a6348188ba9beb9.js>; rel=preload; as=script
+  Link: </webpack-runtime-d5b7e550cf7693a32174.js>; rel=preload; as=script
   Link: </0-bea5bed08190b9d65869.js>; rel=preload; as=script
 /category/angular
-  Link: </webpack-runtime-d2428a6348188ba9beb9.js>; rel=preload; as=script
+  Link: </webpack-runtime-d5b7e550cf7693a32174.js>; rel=preload; as=script
+  Link: </0-bea5bed08190b9d65869.js>; rel=preload; as=script
+/category/blog
+  Link: </webpack-runtime-d5b7e550cf7693a32174.js>; rel=preload; as=script
   Link: </0-bea5bed08190b9d65869.js>; rel=preload; as=script
 /
-  Link: </webpack-runtime-d2428a6348188ba9beb9.js>; rel=preload; as=script
+  Link: </webpack-runtime-d5b7e550cf7693a32174.js>; rel=preload; as=script
   Link: </0-bea5bed08190b9d65869.js>; rel=preload; as=script
