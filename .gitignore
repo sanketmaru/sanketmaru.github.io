@@ -2,3 +2,4 @@ node_modules
 .cache
 gatsby-config.js
 config.js
+public
