@@ -1,6 +1,6 @@
 ---
 title: "Its never too late"
-date: "2019-03-23T22:12:03.284Z"
+date: "2019-03-24T22:12:03.284Z"
 template: "post"
 draft: false
 slug: "/posts/not-knowledge-but-action/"
