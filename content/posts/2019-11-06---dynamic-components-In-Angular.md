@@ -2,7 +2,7 @@
 title: "Dynamic Components in Angular"
 date: "2019-06-20T22:40:32.169Z"
 template: "post"
-draft: false
+draft: true
 slug: "/posts/dynamic-components-angular/"
 category: "Angular"
 tags:
