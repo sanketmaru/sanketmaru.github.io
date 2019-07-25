@@ -3,10 +3,11 @@
 <url> <loc>http://sanketmaru.github.io/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://sanketmaru.github.io/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://sanketmaru.github.io/posts/not-knowledge-but-action/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://sanketmaru.github.io/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://sanketmaru.github.io/pages/contacts/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://sanketmaru.github.io/posts/create-babel-plugin/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://sanketmaru.github.io/pages/contacts/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://sanketmaru.github.io/posts/ng-template-use-case/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://sanketmaru.github.io/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://sanketmaru.github.io/posts/i18n-angular-guidelines/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://sanketmaru.github.io/tag/angular</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://sanketmaru.github.io/tag/babel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://sanketmaru.github.io/tag/jsx</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -16,6 +17,7 @@
 <url> <loc>http://sanketmaru.github.io/tag/optimization</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://sanketmaru.github.io/tag/react</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://sanketmaru.github.io/tag/web-development</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://sanketmaru.github.io/tag/i-18-n</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://sanketmaru.github.io/tag/ng-template</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://sanketmaru.github.io/category/angular</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://sanketmaru.github.io/category/babel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
