@@ -1,0 +1,5 @@
+- name: Sanket Maru
+  bio: |
+    I am a developer, who likes exploring different technologies and deep dive into it to gain more insights. I am starting this blog to bring practical use cases to the web and share a bit of learnings with the world.
+  avatar: ./avatars/profile.jpeg
+  featured: true
